@@ -506,6 +506,7 @@ if __name__ == "__main__":
             continue
         else:
             print ("Fin du programme.")
+            print("La 2e version du programme !")
             break
             
 
